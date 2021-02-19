@@ -1,0 +1,15 @@
+{
+  "name": "npm-package",
+  "version": "1.0.0",
+  "description": "Get random words",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Erin Hancock",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erinhancock794/randomize-npm-package.git"
+  }
+}
