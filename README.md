@@ -1,4 +1,4 @@
-# Module NPM package
+# Randomize
 You can use this NPM package to retrieve random words.
 
 ## Usage
