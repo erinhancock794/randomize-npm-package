@@ -323,5 +323,3 @@ function randomize(options){
         return wordsList[getRandomInt(wordsList.length)]
     }
 }
-
-console.log(randomize({amount: 9}))
